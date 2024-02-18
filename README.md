@@ -1,4 +1,10 @@
 ### Hi there 👋
+Perkenalkan nama Saya **Muhammad Reza Mahendra**.<br>
+Saya seorang Mahasiswa *Informatika* (sedang menempuh semester 6) di **Universitas Ahmad Dahlan**.<br>
+Memiliki minat pada beberapa bidang yaitu :
+- Data Mining, dan
+- Machine Learning
+
 
 <!--
 **Rezmhndr/Rezmhndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
